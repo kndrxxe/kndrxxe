@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kndrxxe&label=Profile%20views&color=0e75b6&style=flat" alt="kndrxxe" /> </p>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on my **Capstone Project**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Bootstrap**
 
