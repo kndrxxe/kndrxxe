@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kndrxxe/kndrxxe/blob/output/snake.svg" alt="Snake animation" />
+https://github.com/kndrxxe/kndrxxe/blob/output/snake.svg
 
 ###
 
