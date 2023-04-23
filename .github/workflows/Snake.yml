@@ -1,12 +1,10 @@
-- name: generate-snake-game-from-github-contribution-grid
-  # You may pin to the exact commit or the version.
-  # uses: Platane/snk@3acebc09eb8ab0e86b3df011dd483a6d3724d280
-  uses: Platane/snk@v2.2.1
+- uses: Platane/snk@v2
   with:
-    github_user_name: kndrxxe
-    outputs: |
-    dark.svg?palette=github-dark&color_snake=blue
-    light.svg?color_snake=#7845ab
-    ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
-    outputs: # optional
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
