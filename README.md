@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-https://github.com/kndrxxe/kndrxxe/blob/output/snake.svg
+![snake svg](https://github.com/kndrxxe/kndrxxe/blob/output/snake.svg)
 
 ###
 
