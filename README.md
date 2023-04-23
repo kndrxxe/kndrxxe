@@ -8,6 +8,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/7j6o5y.gif"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/kndrxxe/count.svg?"  />
 </div>
@@ -33,11 +41,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/KendrixBrosas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
