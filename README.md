@@ -6,7 +6,7 @@
 
 <h3 align="center">A Future IT Professional</h3>
 
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+[!(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
 <br/>
 
