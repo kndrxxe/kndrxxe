@@ -52,7 +52,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,java,python,html,css,javascript,bootstrap,php" />
 </br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,vim,kali,linux" /><br>
 </div>
 
 <br/>
