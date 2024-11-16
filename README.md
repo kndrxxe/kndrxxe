@@ -6,7 +6,6 @@
 
 <h3 align="center">A Future IT Professional</h3>
 
-# Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
 <br/>
