@@ -8,7 +8,7 @@
 <div align="center">
     <h2>✨ An IT Professional in the Making ✨</h2>
     <h3>
-        Hello! I'm <b>Kendrix Brosas</b>, a passionate and driven IT graduate specializing in Web and Mobile Application Development. With a solid foundation in technology and a knack for problem-solving, I'm on a journey to innovate and contribute to the digital world. 🌐
+        Hello! I'm <strong>Kendrix Brosas</strong>, a passionate and driven IT graduate specializing in Web and Mobile Application Development. With a solid foundation in technology and a knack for problem-solving, I'm on a journey to innovate and contribute to the digital world. 🌐
     </h3>
 </div>
 
