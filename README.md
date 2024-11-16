@@ -9,10 +9,12 @@
     <h2>✨ An IT Professional in the Making ✨</h2>
 </div>
 
-<hr/>
+
 
 <div align="center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
+
 </div>
 
 
