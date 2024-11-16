@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true&quote=Your+Quote)
 
 </div>
 
