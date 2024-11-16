@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kndrxxe.kndrxxe" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kndrxxe.kndrxxe-badge&left_text=My%20Page%20Visitors" />
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=45&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+World!+🌏;+I'm+Kendrix+Brosas!;" />
