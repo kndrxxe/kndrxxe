@@ -6,6 +6,8 @@
 
 <h2 align="center">A Future IT Professional</h2>
 
+</br>
+
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
