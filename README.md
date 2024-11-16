@@ -9,7 +9,7 @@
     <h3>✨ An IT Professional in the Making ✨</h3>
 </div>
 
-
+<hr/>
 
 <div align="center">
     
