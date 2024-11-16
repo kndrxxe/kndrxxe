@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Kendrix+Brosas!;" />
 </h1>
 
-<div align="center">*✨ An IT Professional in the Making ✨*</div>
+<div align="center">
+    <h2>**✨ An IT Professional in the Making ✨**</h2>
+</div>
 
 <div align="center">
 
