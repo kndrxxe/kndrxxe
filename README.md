@@ -12,24 +12,6 @@
     </h3>
 </div>
 
-<hr/>
-
-<div align="center">
-    
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
-
-</div>
-
-<hr/>
-
-<div align="center">
- 
- 🌱 I’m currently learning: **React, JS, Python** to expand my expertise in web and software development.
-
-💬 Ask me about **HTML, CSS, Javascript** or building web and mobile applications — I love sharing what I know!
-
- </div>
- 
 <div align="center">
   <a href="https://facebook.com/KendrixBrosas" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -48,6 +30,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr/>
+
+<div align="center">
+    
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
+
+</div>
+
+<hr/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning: **React, JS, Python** to expand my expertise in web and software development.
+
+💬 Ask me about **HTML, CSS, Javascript** or building web and mobile applications — I love sharing what I know!
+
+ </div>
 
  <hr/>
  
