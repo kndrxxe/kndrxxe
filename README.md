@@ -28,7 +28,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:brosaskndrx05@gmail.com">
+  <a href="https://instagram.com/kndrxxe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:brosaskndrx05@gmail.com">
