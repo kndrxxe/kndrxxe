@@ -27,7 +27,10 @@
 
  </div>
  
-<div align="center"> 
+<div align="center">
+    <a href="https://instagram.com/kndrxxe" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://instagram.com/kndrxxe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -36,9 +39,6 @@
   </a>
   <a href="https://linkedin.com/in/kendrixbrosas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
