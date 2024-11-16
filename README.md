@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <h2>**✨ An IT Professional in the Making ✨**</h2>
+    <h2>✨ An IT Professional in the Making ✨</h2>
 </div>
 
 <div align="center">
