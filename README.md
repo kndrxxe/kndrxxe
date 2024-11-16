@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=45&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+World!+🌏;+I'm+Kendrix+Brosas!;" />
 </h1>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
 <div align="center">
   <a href="https://facebook.com/KendrixBrosas" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -14,7 +16,7 @@
   <a href="https://instagram.com/kndrxxe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</br>
+<br>
   <a href="mailto:brosaskndrx05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -67,7 +69,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kndrxxe/kndrxxe/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br><br><br>
 </div>
 
 <hr/>
@@ -80,6 +82,6 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kndrxxe&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br><br>
 
 <hr/>
