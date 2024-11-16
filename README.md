@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <h2>A Future IT Professional</h2>
+    <h1>A Future IT Professional</h1>
 </div>
 
 <div align="center">
