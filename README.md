@@ -29,6 +29,9 @@
  
 <div align="center"> 
   <a href="mailto:brosaskndrx05@gmail.com">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:brosaskndrx05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/kendrixbrosas" target="_blank">
