@@ -28,7 +28,10 @@
  </div>
  
 <div align="center">
-    <a href="https://instagram.com/kndrxxe" target="_blank">
+  <a href="https://facebook.com/KendrixBrosas" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://x.com/kndrxxe" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/kndrxxe" target="_blank">
