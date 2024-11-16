@@ -50,9 +50,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,html,css,javascript,bootstrap,php" />
+    <img src="https://skillicons.dev/icons?i=cs,java,python,html,css,javascript,bootstrap,php,mysql" />
 </br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,vim,kali,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,vim,kali,linux" /><br>
 </div>
 
 <br/>
