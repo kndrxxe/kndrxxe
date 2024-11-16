@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Kendrix+Brosas!;" />
 </h1>
 
+</hr>
 <div align="center">
     <h1>A Future IT Professional</h1>
 </div>
@@ -13,6 +14,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
 
 </div>
+
+</hr>
 
 
 <div align="center">
