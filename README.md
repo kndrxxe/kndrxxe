@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kndrxxe.kndrxxe" />
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=45&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+World!+🌏;+I'm+Kendrix+Brosas!;" />
-</h1>
+</h3>
 
 <h2 align="center">🌐 Socials 🌐</h2>
 <br>
