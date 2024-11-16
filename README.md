@@ -26,7 +26,7 @@
  
  🌱 I’m currently learning: **React, JS, Python** to expand my expertise in web and software development.
 
-💬 Ask me about **HTML, CSS, Javascript or building web and mobile applications — I love sharing what I know!
+💬 Ask me about **HTML, CSS, Javascript** or building web and mobile applications — I love sharing what I know!
 
  </div>
  
