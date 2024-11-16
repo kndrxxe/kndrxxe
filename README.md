@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
 
 </div>
 
