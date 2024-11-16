@@ -5,7 +5,7 @@
 </h1>
 
 
-## A Future IT Professional
+<h2 align="center"> A Future IT Professional </h2>
 
 
 <div align="center">
