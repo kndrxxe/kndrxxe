@@ -30,7 +30,8 @@
 </div>
 
 <hr/>
-<h2 align="center">🌟 Quote 🌟</h2>
+<h2 align="center">🌟 Inspirational Quote 🌟</h2>
+
 <div align="center">
     
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
