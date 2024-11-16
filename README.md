@@ -6,7 +6,7 @@
 
 
 <div align="center">
-    <h2>✨ An IT Professional in the Making ✨</h2>
+    <h3>✨ An IT Professional in the Making ✨</h3>
 </div>
 
 
