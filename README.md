@@ -4,14 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=45&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+World!+🌏;+I'm+Kendrix+Brosas!;" />
 </h1>
 
-<hr/>
-<div align="center">
-    <h2>✨ An IT Professional in the Making ✨</h2>
-    <h3>
-        I'm  a passionate and driven IT graduate specializing in Web and Mobile Application Development. With a solid foundation in technology and a knack for problem-solving, I'm on a journey to innovate and contribute to the digital world. 🌐
-    </h3>
-</div>
-
 <div align="center">
   <a href="https://facebook.com/KendrixBrosas" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -29,6 +21,14 @@
   <a href="https://linkedin.com/in/kendrixbrosas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<hr/>
+<div align="center">
+    <h2>✨ An IT Professional in the Making ✨</h2>
+    <h3>
+        I'm  a passionate and driven IT graduate specializing in Web and Mobile Application Development. With a solid foundation in technology and a knack for problem-solving, I'm on a journey to innovate and contribute to the digital world. 🌐
+    </h3>
 </div>
 
 <hr/>
