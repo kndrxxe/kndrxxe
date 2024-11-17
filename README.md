@@ -42,9 +42,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning: **React, JS, Python** to expand my expertise in web and software development.
+ 🌱 I’m currently learning: **React, JS, Python** and exploring **Cybersecurity** to expand my expertise in web, software development, and secure systems.
 
-💬 Ask me about **HTML, CSS, Javascript** or building web and mobile applications — I love sharing what I know!
+💬 Ask me about **HTML, CSS, Javascript**, building web and mobile applications, **Cybersecurity** basics — I love sharing what I know!
 
  </div>
 
